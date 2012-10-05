@@ -1,5 +1,6 @@
-
 Created by Stefan Walther (http://www.qlikblog.at)
+
+Detailed explanation with screenshots: http://www.qlikblog.at/1579/qliktip-39-displaying-html-content-minimalistic-htmltextbox-object-extension/
 
 Instructions:
 --------------------------------------------------
