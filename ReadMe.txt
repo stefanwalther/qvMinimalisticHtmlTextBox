@@ -2,6 +2,11 @@ Created by Stefan Walther (http://www.qlikblog.at)
 
 Detailed explanation with screenshots: http://www.qlikblog.at/1579/qliktip-39-displaying-html-content-minimalistic-htmltextbox-object-extension/
 
+Content:
+--------------------------------------------------
+MinimalisticHtmlTextBox is a simple QlikView object extension for displaying Html within a QlikView application. Either use a static string or the content of any field to render Html.
+
+
 Instructions:
 --------------------------------------------------
 Enter a reference to the desired QlikView field containing the Html or insert your Html as string.
