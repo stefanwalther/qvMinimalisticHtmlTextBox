@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<ExtensionObject Label="Minimalistic HtmlTextBox" Description="Simple Object Extension for displaying Html formatted content.">
+    <Text  Expression="" />
+    <Initiate Name="Caption.Text" Value="Minimalistic HtmlTextBox" /> 
+    <Initiate Name="Caption.Font.Italic" Value="1" /> 
+    <Initiate Name="Chart.BgColor.ColorHex" Value="#FFFFE0" />
+</ExtensionObject>

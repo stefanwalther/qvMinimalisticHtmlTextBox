@@ -1,0 +1,31 @@
+ 
+<div class="ToolWindow-MainBody" avq="foldOutMenu:." style="overflow: visible !important; float: left;">
+  <div class="prop-accordion" avq="accordion:.">
+    <h3 class="prop-h3 accordion-shadow">
+      <a href="#">HtmlTextBox</a>
+    </h3>
+    <div class="prop-grid_container accordion-shadow-enabler" style="overflow:auto;">
+      <div class="prop-grid_clear prop-grid_top-vertical-spacer-12px prop-grid_last"></div>
+						<div class="prop-grid_clear prop-grid_prepend-1 prop-grid_span-5 prop-grid_standard-height prop-grid_label">
+			Html
+		</div>
+		<div class='prop-grid_span-10 prop-grid_last prop-grid_standard-height'>
+					<input class='prop-grid_checkbox prop-expression-input' type='text' style='width:94%;' avq='edit:.Chart.Text.0.Content' />
+			<span propicontype='expression' avq='dlgprop:.Chart.Text.0.Content:Expression.qvpp'></span>
+		</div><br />
+		        </div>
+    <h3 class="prop-h3 accordion-shadow" avq="activeAccordionHeader:.:GenericPresentationFoldout.qvpp">
+      <a href="#">Presentation</a>
+    </h3>
+    <div class="prop-grid_container accordion-shadow-enabler" avq="panel::Layout.qvpp"></div>
+    <h3 class="prop-h3 accordion-shadow" name="accordion-header" avq="activeAccordionHeader:.:PropertiesCaptionFoldout.qvpp">
+      <a href="#">Caption</a>
+    </h3>
+    <div class="prop-grid_container accordion-shadow-enabler" avq="panel:.:Caption.qvpp"></div>
+    <h3 class="prop-h3 accordion-shadow" name="accordion-header" avq="activeAccordionHeader:.:PropertiesOptionsFoldout.qvpp">
+      <a href="#">Options</a>
+    </h3>
+    <div class="prop-grid_container accordion-shadow-enabler" avq="panel:.:ChartOptions.qvpp"></div>
+  </div>
+  <span class="bottom-gap"></span>
+</div>
